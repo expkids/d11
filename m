@@ -1,6 +1,6 @@
 {
     "about": "主要自用, 有问题 可访问https://github.com/anaer/Meow",
-    "updateTime": "2025-01-05 15:00:38",
+    "updateTime": "2025-01-15 07:58:34",
     "wallpapers": [
         "https://bing.img.run/rand.php",
         "https://api.lyiqk.cn/scenery",
@@ -321,9 +321,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
-                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
+                        "http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3"
                     ]
                 },
                 {
@@ -332,9 +332,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8"
+                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
                     ]
                 },
                 {
@@ -343,9 +343,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
                     ]
                 },
                 {
@@ -354,9 +354,9 @@
                     "urls": [
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
+                        "http://111.14.181.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0"
                     ]
                 },
                 {
@@ -406,14 +406,6 @@
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
                         "http://lu.wqwqwq.sbs/itv/6000000001000022313.m3u8?cdn=wasusyt",
                         "http://123.112.19.67:8012/rtp/239.3.1.172:8001"
-                    ]
-                },
-                {
-                    "name": "CCTV-4K超高清",
-                    "tvg_name": "CCTV4K",
-                    "urls": [
-                        "http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8",
-                        "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8"
                     ]
                 },
                 {
@@ -480,11 +472,11 @@
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
+                        "http://ha.xushining.com:50000/udp/225.1.1.213:5002",
                         "https://stream1.freetv.fun/jia-ting-ying-yuan-4.m3u8",
                         "https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8",
                         "http://58.19.38.162:9901/tsfile/live/1031_1.m3u8",
-                        "http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad",
-                        "https://stream1.freetv.fun/chcjia-ting-ying-yuan-23.m3u8"
+                        "http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad"
                     ]
                 },
                 {
@@ -638,8 +630,8 @@
                         "http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5",
                         "http://ali.hlspull.yximgs.com/live/diyp_fh3.flv",
                         "http://60.164.128.167:8029/rtp/239.255.30.123:8231",
-                        "https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8",
-                        "https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv"
+                        "http://www.lebaobei.top:6868/udp/239.255.30.123:8231",
+                        "http://www.lebaobei.top:6868/rtp/239.255.30.123:8231"
                     ]
                 },
                 {
@@ -1230,54 +1222,193 @@
             ]
         }
     ],
-     "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
     "ads": [
-        "wan.51img1.com",
+        "mimg.0c1q0l.cn",
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
         "iqiyi.hbuioo.com",
+        "ttsp.tv",
+        "ak.hetapus.com",
+        "raw.githubusercontent.com",
+        "mozai.4gtv.tv",
+        "static-mozai.4gtv.tv",
+        "43.248.128.138",
+        "www.googletagmanager.com",
         "vip.ffzyad.com",
-        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+        "lgyy.cc",
+        "ausoafab.net",
+        "googlevideo.com",
+        "www.72418.com",
+        "s3t3d2y8.afcdn.net",
+        "pv.vipwm.cc",
+        "www.google-analytics.com",
+        "www.06313.com",
+        "cdn.v82u1l.com",
+        "mc.usihnbcq.cn",
+        "cdn.iz8qkg.com",
+        "http://itvba.xyz/tv/jar/fty1020.jar",
+        "video.bj.bcebos.com",
+        "mg.g1mm3d.cn",
+        "wan.51img1.com",
+        "cdn.kin6c1.com",
+        "mscs.svaeuzh.cn",
+        "c.biggggg.com",
+        "cnzz.hhttm.top",
+        "c.olddddd.com",
+        "4gtvfreepcvod-cds.cdn.hinet.net",
+        "tp.vinuxhome.com",
+        "haiwaikan.com",
+        "cnzz.mmstat.com",
+        "www.histar.tv",
+        "www.baihuillq.com",
+        "youtube.com",
+        "s23.cnzz.com",
+        "uhibo.com",
+        "z3.cnzz.com",
+        ".*boku.*",
+        "c.cnzz.com",
+        ".*nivod.*",
+        "stj.v1vo.top",
+        ".*ulivetv.*",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "xc.hubeijiesikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "so.toutiao.com",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "v1.cnzz.com",
+        "xg.huataisangao.cn",
+        "xg.huataisanao.cn",
+        "z7.cnzz.com",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "try.gitea.io",
+        "k.wudejia.com",
+        "videocloud.cn-hangzhou.log.aliyuncs.com",
+        "www.118866.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com",
+        "whateveridontcare.netlify.app",
+        "qiaoji8.com",
+        "netcut.cn",
+        ".sq88.press",
+        "p.qlogo.cn",
+        "hd.youyhn.com",
+        "static.cloudflareinsights.com",
+        "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4",
+        "news.norlinked.com",
+        "mg.hxhhb120.cn",
+        "p.qpic.cn",
+        "m.finipe.cn",
+        "mg.miaolejieshui.cn",
+        "shp.qpic.cn",
+        "769056.com",
+        "xc.cdhxhhb.cn",
+        "reelportal.com",
+        "api.htpan.net",
+        "www.kdnvxfdj.xyz,static-mozai.4gtv.tv",
+        "xg.cdhhbyy.cn",
+        "k.13hangpifa.com",
+        "thefatherofsalmon.com",
+        ".51.la",
+        "yaqurc.com",
+        ".jiubojx.com",
+        "51.la",
+        "www.bmbaike.cn",
+        "cdnjs.xmlanshu.com",
+        "95710.vip",
+        "cdn0.sxhjty.cn",
+        "adserver.juicyads.com",
+        "an5.uyueread.com",
+        "redtraffic.net",
+        "img.sdzqx7d.cn",
+        "m.yqqlm.vip",
+        "toutiao.com",
+        "wap.xwkchcl.top",
+        "bdstatic.com",
+        "pv.sohu.com",
+        "googlesyndication.com",
+        "www.q4ee.top",
+        "cdn.wmnvhai.com",
+        "etgobzz.cn",
+        "api.zhongwenqing.com",
+        "kxv.kxvuv.com",
+        "cdn.7nsc.cn",
+        "76065.com"
+    ],
+    "parseAds": [
+        "0866a0a33e897c6b69d927db8a341e1d",
+        "111.m3u8",
+        "1658315755.m3u8",
+        "20230103dsafdfjhd.m3u8",
+        "2420fc61fb66a16ae22f08cecbd2ff43",
+        "25e538d6ef7c13189646539ab52e5eb4",
+        "44a44566-d7b7-40eb-8b4b-52c3d7d04925.mp4",
+        "606ae058-6c0a-41b8-8711-7e87b660b1f6.m3u8",
+        "88aa085b25d90033a366bf3390289a119bddf429.m3u8",
+        "95d0416b437645942b41de9ec06e63c6.mp4",
+        "a9c81f35-9f12-4242-b65c-cfbb0100101d.mp4",
+        "ae570ecc419c4ac1b227b00e0d6ec138.mp4",
+        "aiku.m3u8",
+        "cache.json.icu",
+        "d740175e67dd70fadfb9d0c4384b4c59",
+        "daoqitixing.m3u8",
+        "fangdao",
+        "fca02fec-85cc-4c03-91f9-29e5957c18c4.mp4",
+        "fd.m3u8",
+        "fd2.m3u8",
+        "feiyun.m3u8",
+        "https://1231231/",
+        "https://api.nxflv.com/Cache/M3u8/",
+        "https://cdn.oss-cn-m3u8.tv-nanjing-chengdu.myqcloud.com.zh188.net",
+        "https://hls.banyung.vip/m3u8.php",
+        "https://k.json.icu/m3u8/",
+        "https://txmov2.a.kwimgs.com/upic/2021/12/08/19/",
+        "https://v9-xg-web-pc.ixigua.com/",
+        "id190.tpddns.cn",
+        "jxjson.cf.m3u8",
+        "milai.mp4",
+        "tjx.m3u8",
+        "txmov2.a.yximgs.com",
+        "xiaohai.mp4",
+        "xiaoxin.m3u8",
+        "xyfd.m3u8",
+        "xyqf.m3u8",
+        "xyrx.mp4",
+        "yuncache.52e.cc",
+        "yuncache.hao7788.cc",
+        "yuncache.hqmbsh.com",
+        "yuncache.hs-mould.cn",
+        "yyyyy.mp4"
     ]
 }
