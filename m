@@ -14,7 +14,7 @@
             "key": "73b5c89acc8a7c24118857fc514e9218",
             "name": "①非凡",
             "type": 1,
-            #"api": "http://ffzy3.tv/api.php/provide/vod/"
+            "api": "http://ffzy3.tv/api.php/provide/vod/"
         },
         {
             "key": "cf97f252cca094245f27f5ddce5a995f",
