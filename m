@@ -11,9 +11,15 @@
     ],
     "sites": [
         {
+            "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
+            "name": "⑨暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/"
+        },
+        {
             "key": "73b5c89acc8a7c24118857fc514e9218",
             "name": "①非凡",
-            "type": 1,
+            "type": 1 ,
             "api": "http://ffzy3.tv/api.php/provide/vod/"
         },
         {
@@ -57,12 +63,6 @@
             "name": "⑧祥子",
             "type": 1,
             "api": "http://141.147.146.105/api.php/provide/vod/"
-        },
-        {
-            "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
-            "name": "⑨暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "7ced0073619101d397b5c86fc3578ed4",
